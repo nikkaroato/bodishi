@@ -1,0 +1,25 @@
+body {
+    background-color:  rgb(12, 122, 113);
+   
+    background-image: url('https://www.pandasecurity.com/en/mediacenter/src/uploads/2019/07/pandasecurity-How-do-hackers-pick-their-targets.jpg');
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.nika {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.div {
+    width: 100px;
+    height: 50px;
+    background-color: aliceblue;
+    margin-top: 500px;
+}
+.bt {
+    transform: translateY(540px);
+    width:100px;
+    height: 50px;
+}
+
+
